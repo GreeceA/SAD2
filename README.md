@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<img width="1786" height="1099" alt="image" src="https://github.com/user-attachments/assets/a759e4d8-11c8-43f8-8c06-c5b13ed8653e" /><p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -64,3 +64,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## SCREENSHOT
+### Log-in Page
+<img width="1786" height="1098" alt="image" src="https://github.com/user-attachments/assets/142ec02a-98e3-418f-a66b-65749d4f643c" />
+
+### Registration Page
+<img width="1790" height="1096" alt="image" src="https://github.com/user-attachments/assets/61a716a7-7df1-44ce-b1ec-fa90bd250300" />
+
+
+
