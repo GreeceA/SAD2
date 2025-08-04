@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\dashboard\Soft-Eng-2-Project\resources\views/welcome.blade.php ENDPATH**/ ?>
